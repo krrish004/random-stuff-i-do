@@ -1,0 +1,17 @@
+body{
+    background-image: url(Beyonce\ 2.jpg);
+    background-size: contain;
+    text-align: center;
+}
+
+#title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#text{
+    background-color: antiquewhite;
+}
+
+h3{
+    color: aliceblue;
+}
